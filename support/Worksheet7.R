@@ -1,7 +1,7 @@
 # Workshop 7 -------------------------------------------------------------------
 
 #import the provided data
-load(file="Data/NNdatasets.Rda")
+load(file=here::here("data/NNdatasets.Rda"))
 
 # Exercise 1 ===================================================================
 # First of all scale the data 
